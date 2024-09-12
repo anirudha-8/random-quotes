@@ -13,7 +13,7 @@ A fun and simple React application developed as part of a challenge by [TheGoodG
 
 - ⚛️ React
 - ⚡ Vite
-- 🎨 CSS (inline styles)
+- 🎨 CSS
 
 ## Getting Started
 
